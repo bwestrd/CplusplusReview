@@ -1,0 +1,4 @@
+﻿  IsPalindrome.cpp
+E:\Users\Owner\Documents\code\c++\IsPalindrome\IsPalindrome.cpp(13,22): warning C4018: '<': signed/unsigned mismatch
+E:\Users\Owner\Documents\code\c++\IsPalindrome\IsPalindrome.cpp(25,22): warning C4018: '<': signed/unsigned mismatch
+  IsPalindrome.vcxproj -> E:\Users\Owner\Documents\code\c++\IsPalindrome\Debug\IsPalindrome.exe
