@@ -1,1 +1,2 @@
 E:\Users\Owner\Documents\code\c++\IsPalindrome\Debug\IsPalindrome.exe
+E:\Users\Owner\Documents\code\c++\CplusplusReview\IsPalindrome\Debug\IsPalindrome.exe

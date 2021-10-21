@@ -8,7 +8,7 @@ using namespace std;
 
 bool IsPalindrome(string testString) {
 	int lengthOfTestString = (testString.length() - 1);
-	if (testString.length() > 2) {
+	if (testString.length() >=2) {
 		if (testString.length() % 2 == 0) {// even
 			for (int i = 0; i < (testString.length() / 2); i++) {
 				if (testString[i] == testString[lengthOfTestString - i]) {
@@ -38,7 +38,7 @@ bool IsPalindrome(string testString) {
 }
 
 int main(){
-	string test;
+	string test = "";
 	cout << "Enter word to test" << endl;
 	cin >> test;
 	if (IsPalindrome(test)) {
